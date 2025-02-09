@@ -1,17 +1,16 @@
-👋 Hi, I’m Shuhaib-kt
+# 👋 Hi, I'm Shuhaib KT!  
 
-🚀 Aspiring Mobile App Developer | 🛡️ Security Enthusiast
+🚀 **Aspiring Full-Stack Developer** | 📱 **Flutter & React Enthusiast** | 🛡️ **Security Explorer**  
 
-💻 Currently mastering Flutter/Dart | 📚 Lifelong learner
+💡 Passionate about **building scalable applications, security research, and open-source contributions**.  
 
-🤝 Open to collaborations on innovative Flutter projects
+🔍 Currently mastering **Flutter, Dart, React, and Web3 development**.  
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/shuhaibkt/) to discuss ideas and opportunities!
+📌 Open to **collaborations on innovative projects** and **tech discussions**.  
 
-🔗 Explore my repositories and join me in the exciting world of app development and security exploration!
+🌱 **Learning:** Go, Hyperledger Fabric, and System Security.  
+💬 **Ask me about:** Web3, Security, Flutter, React.js.  
+📫 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shuhaibkt)  
 
-
-<!---
-shuhaibkt02/shuhaibkt02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/shuhaibkt02)  
