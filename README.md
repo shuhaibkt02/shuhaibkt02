@@ -16,10 +16,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/shuhaibkt02)  
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuhaibkt02&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" height="180"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhaibkt02&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
-</p>
